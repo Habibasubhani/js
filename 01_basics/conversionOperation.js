@@ -26,3 +26,6 @@ console.log(typeof scoreE)
 let values = Number(scoreE)
 console.log(typeof values)
 console.log(values)     //1
+let isLoggedIn = 1
+let booleanIsLoggedIn = Boolean(isLoggedIn)
+console.log(booleanIsLoggedIn)
